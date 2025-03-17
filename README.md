@@ -1,9 +1,10 @@
 https://www.datacamp.com/datalab/w/b6c61f52-a4e8-41e9-a75c-b00cbe9cd253/edit
+
 Analyzing International Debt Statistics & DataLab: AI-powered Data Notebook
 Project Overview
 This project involves two main components:
 
-Analyzing International Debt Statistics: This part of the project focuses on analyzing international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories.
+Analyzing International Debt Statistics: This part of the project analyzes international debt data from The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories.
 DataLab: AI-powered Data Notebook: This component introduces DataLab, an AI-powered data notebook designed for users of all skill levels to analyze and visualize data efficiently.
 Analyzing International Debt Statistics
 Dataset Description
